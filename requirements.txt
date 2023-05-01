@@ -1,0 +1,6 @@
+gym[atari,accept-rom-license]==0.22.0
+kornia==0.6.12
+matplotlib==3.4.2
+numpy==1.23.5
+opencv_python==4.5.3.56
+torch==1.12.1
